@@ -1,0 +1,21 @@
+:root {
+    --c-blue-dark25-35: hsl(227, 35%, 25%);
+    --c-blue-light87-100: hsl(226, 100%, 87%);
+    --c-blue-light87-50: hsl(223, 50%, 87%);
+    --c-blue-light95-65: hsl(224, 65%, 95%);
+    --c-blue-light99-100: hsl(230, 100%, 99%);
+    --c-blue-mid50-100: hsl(240, 100%, 50%);
+    --c-blue-mid60-20: hsl(225, 20%, 60%);
+    /* (Full Slider Bar) */
+    --c-cyan-light80-77: hsl(174, 77%, 80%);
+    /* (Slider Backround) */
+    --c-cyan-mid45-86: hsl(174, 86%, 45%);
+    --c-cyan-mid50-100: hsl(180, 100%, 50%);
+    --c-gray50: hsl(0, 0%, 50%);
+    (Discount Text)
+    --c-orange-light70-100: hsl(15, 100%, 70%);
+    /* (Discount Background) */
+    --c-orange-light95-92: hsl(14, 92%, 95%);
+    --c-red-mid50-100: hsl(0, 100%, 50%);
+    --c-white: hsl(0, 0%, 100%);
+    }
