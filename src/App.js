@@ -4,10 +4,10 @@ import Card from './components/Card'
 
 const App = () => {
   return (
-    <>
+    <main>
      <Header/>
      <Card/>
-    </>
+    </main>
   )
 }
 
