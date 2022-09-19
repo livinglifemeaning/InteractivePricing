@@ -23,7 +23,9 @@ const RangeSlider = ({ changeValue, term, data }) => {
         className="customSlider"
         trackClassName="customSlider-track"
         thumbClassName="customSlider-thumb"
-        onAfterChange={(value) => changeValue(value)}
+        onAfterChange={(value) => changeValue(value)
+        }
+        ariaLabel="Choose a value"
       />
       {!isDesktop && (
         <div className={classes.pricing}>
